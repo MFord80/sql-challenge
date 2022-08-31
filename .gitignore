@@ -1,6 +1,12 @@
 # Power BI
 *.pbix
 
+# config.py
+config.py
+
+# Database.ini
+database.ini
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

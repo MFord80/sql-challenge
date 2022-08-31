@@ -1,6 +1,9 @@
 # Power BI
 *.pbix
 
+# config.py
+config.py
+
 # Database.ini
 database.ini
 
